@@ -31,4 +31,4 @@
   <source src="video.mp4" type="video/mp4">
 </video>
 ### 📸 Фото
-![Общий вид робота](media/photo.JPG)  
+![Общий вид робота](photo.JPG)  
