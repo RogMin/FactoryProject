@@ -27,8 +27,8 @@
 
 Робот управляяется через Wi-Fi с помощью телефона.
 ### 📹 Видео
-<video width="600" controls poster="media/preview.jpg">
-  <source src="media/video.mp4" type="video/mp4">
+<video width="600" controls poster="photo.jpg">
+  <source src="video.mp4" type="video/mp4">
 </video>
 ### 📸 Фото
 ![Общий вид робота](media/photo.JPG)  
