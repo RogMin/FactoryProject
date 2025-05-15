@@ -26,9 +26,10 @@
 На передней части корпуса размещены **3 острых самореза**, направленных вперёд — они нужны для **прокалывания воздушных шаров** и светодиод, необходимый для прохождение трассы.
 
 Робот управляяется через Wi-Fi с помощью телефона.
-### 📹 Видео
-<video width="600" controls poster="photo.jpg">
-  <source src="video.mp4" type="video/mp4">
+### 📹 Видео работы
+<video width="600" controls>
+  <source src="https://github.com/RogMin/FactoryProject/blob/main/video.mp4">
 </video>
-### 📸 Фото
-![Общий вид робота](photo.JPG)  
+
+### 📸 Фотографии
+![Фото робота](https://github.com/RogMin/FactoryProject/blob/main/photo.jpg)  
