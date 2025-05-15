@@ -28,7 +28,7 @@
 Робот управляяется через Wi-Fi с помощью телефона.
 ### 📹 Видео работы
 <video width="600" controls>
-  <source src="https://github.com/RogMin/FactoryProject/blob/main/video.mp4">
+  <source src="https://youtube.com/shorts/N3blRG_QvWg">
 </video>
 
 ### 📸 Фотографии
